@@ -14,5 +14,6 @@ Previously shipped products at **Aave**, **GamicHQ** (raised $3M), and **Loopy S
   `React` `Next.js` `TypeScript` `Figma` `Tailwind CSS` `Node.js` `Web Audio API` `Three.js` `Webflow`
 
   ### Links
+- [Portfolio](https://folio-jet-mu.vercel.app/)
   - [LinkedIn](https://www.linkedin.com/in/iedohoeket/)
    - Lagos, Nigeria
