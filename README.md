@@ -15,4 +15,3 @@ Previously shipped products at **Aave**, **GamicHQ** (raised $3M), and **Loopy S
   ### Links
 - [Portfolio](https://edohoeket.com/)
   - [LinkedIn](https://www.linkedin.com/in/iedohoeket/)
-   - Lagos, Nigeria
