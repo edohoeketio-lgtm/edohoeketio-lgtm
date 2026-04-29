@@ -2,7 +2,7 @@
 
 **Design Engineer** building production web apps with React, Next.js and TypeScript.
 
-Previously shipped products at **Aave**, **GamicHQ** (raised $3M), and **Loopy Studios** (20+ products). I sit at the intersection of design and engineering. I design in Figma, build in code, and obsess over the details in between.
+Previously shipped products at **Aave**, **PingApp** formerly **GamicHQ** (raised $3M), and **Loopy Studios** (20+ products). I sit at the intersection of design and engineering. I design in Figma, build in code, and obsess over the details in between.
 
 ### What I'm working on
 - **[GreatWood](https://github.com/edohoeketio-lgtm/GreatWood)** -- Premium furniture e-commerce for the Nigerian market (Next.js, TypeScript)
